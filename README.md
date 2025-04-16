@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm David👋
+
+I'm an aspiring software engineer who is always looking for an open-source project to contribute to and better my skills. Some technologies I enjoy working with are C/C++, java and python. I also keep up to date with current technologies trying to stay up to date with everything.
 
 <!--
 **dkrasn3/dkrasn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
